@@ -1,9 +1,12 @@
-//import Users from './components/pages/Users';
-import Dashboard from './pages/Dashboard';
+import Routing from "./config/Routing";
+
+
+
 
 function App(){
   return(
-    <Dashboard/>
+    
+    <Routing/>
   )
 }
 

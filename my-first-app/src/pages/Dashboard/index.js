@@ -1,9 +1,9 @@
-import NavBar from '../../components/NavBar'
+import NavBar from "../../components/NavBar"
 export default function Dashboard() {
     return (
-        <div>
+        <div> 
             <NavBar/>
-            <h3>Dashboard Page</h3>
+            <h3>Dashboard</h3>
         </div>
     )
 }
