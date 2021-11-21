@@ -1,13 +1,12 @@
-import Routing from "./config/Routing";
+import Alox from "./Alox";
 
 
 
 
 function App(){
   return(
-    
-    <Routing/>
-  )
+    <Alox/>
+  );
 }
 
 
